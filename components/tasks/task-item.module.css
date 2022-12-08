@@ -1,0 +1,21 @@
+.task {
+  background-color: #2b2c37;
+  border-radius: 8px;
+  padding: 23px 16px;
+  margin-bottom: 20px;
+  width: 280px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.task p:hover {
+  color: #635fc7;
+}
+.task p {
+  font-weight: 700;
+  font-size: 15px;
+}
+.task span {
+  color: #828fa3;
+  font-weight: 700;
+  font-size: 12px;
+}
