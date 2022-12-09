@@ -82,3 +82,34 @@
 .btn-dark {
   margin-top: 24px;
 }
+
+.btnBlock {
+  cursor: pointer;
+  display: inline-block;
+  background: #635fc7;
+  border: transparent;
+  color: #fff;
+  border-radius: 24px;
+  padding: 10px 25px;
+  font-size: 15px;
+  width: 100%;
+  margin-top: 10px;
+}
+.btnBlock:hover {
+  background: #a8a4ff;
+}
+.subtask {
+  cursor: pointer;
+  display: inline-block;
+  background: #fff;
+  border: transparent;
+  color: #635fc7;
+  border-radius: 24px;
+  padding: 10px 25px;
+  font-size: 15px;
+  width: 100%;
+  margin-top: 10px;
+}
+.subtask:hover {
+  color: #a8a4ff;
+}
